@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 SMS_GHOST ULTIMATE v4.0 - Real Phone Intelligence Framework
-Professional Phone OSINT - No Simulation
 
 Author: F1REW0LF
 License: MIT
